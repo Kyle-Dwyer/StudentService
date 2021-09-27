@@ -4,8 +4,8 @@ A Spring Docker Example for SE2021 honor class at fdu.
 # Steps for running this project
 
 ```
-git clone https://github.com/Humbertzhang/spring-docker-example
-cd spring-docker-example
+git clone https://github.com/Kyle-Dwyer/StudentService.git
+cd StudentService
 mvn clean package
 docker build .
 ```
